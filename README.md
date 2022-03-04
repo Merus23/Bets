@@ -2,9 +2,9 @@
 
 ### Conceitos
  * Mais valor: esse conceito permite encontrar apostas com cunho vantanjoso. Isso é apoiado na ideia de medir a probabilidade de algo acontecer e de não acontecer. Se a odd é suficientemente alta em relação à probabilidade de acontecer (o contrário também é válido), então o valor é positivo. Com isso em mente, foi pensando na seguinte fórmula:
-                                        ```
-                                        (Probabilidade de acontecer/eventos totais) * 100 * Odd
-                                        ```
+                                        
+                                      (Probabilidade de acontecer/eventos totais) * 100 * Odd
+                                        
 
  * Cobertura:
 
