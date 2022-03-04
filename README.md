@@ -6,7 +6,15 @@
                     (Probabilidade de acontecer/eventos totais) * 100 * Odd
                                         
 
- * Cobertura:
+ * **Cobertura/**: Em um cenário que uma aposta parece ser boa, mas durante a partida acontece uma mudança de viés contrário, é possível apostar em algo que contradiz a aposta atual. Isso é, a aposta foi feita em um determinado over, é possível apostar no under para **diluir riscos** ou realizar uma estratégia de **ganho e ganho** (com valores recebidos menores).
+
+      |**Aposta**               |**Valor investido**        |**Retorno (valor investido * odd)**|
+      |-------------------------|---------------------------|-----------------------------------|
+      |Aposta 1                 | a                         | r1                                |
+      |Aposta 2                 | b                         | r2                                |
+
+Baseado na tabela acima, existem algumas possibilidades: r1 > (a + b); r1  < (a + b); r2 > (a + b); r2  < (a + b). O primeiro resultado é de lucro, assim como o terceiro, isso porque ambos tem um retorno maior que os valores investido somados. Ou seja, esses dois cenários correspondem a categoria de **ganho e ganho**, qualquer um dos resultados resulta em ganho. Por outro lado, o segundo e quarto resultado são de prejuízo diluído. Pensando nisso, 
+         
 
 ### Metodologia
  * Um jogo por vez
