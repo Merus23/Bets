@@ -1,3 +1,4 @@
+#Leia a documentação para entender a nomenclatura das variáveis
 #Aposta1
 a  = float(input('Informe o valor investido na 1º aposta:'))
 odd1 = float(input('Informe a odd da 1º aposta:'))
